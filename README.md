@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**hahajin/hahajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hahajin/hahajin** is a ✨ _special man_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

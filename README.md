@@ -10,7 +10,7 @@
 - 🌱 I’m deepening my knowledge in GPU-accelerated computing (CUDA) and cloud-native FEA
 - 👯 I’m looking to collaborate on open-source structural analysis tools and engineering web apps
 - 💬 Ask me about Finite Element Method, Abaqus/OpenSees scripting, React + Node.js, and DevOps for engineering software
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **renjunjiezz@gmail.com**
 - ⚡ Fun fact: I debug mesh errors by day and JavaScript promises by night – both require infinite patience!
 
 ### 📊 GitHub Stats & Activity
@@ -33,9 +33,9 @@
 
 ### 🌍 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/hahajin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/junjie-ren-3010222aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/hahajin" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:renjunjiezz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">

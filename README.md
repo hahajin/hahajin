@@ -28,7 +28,7 @@
 | --- | --- | --- |
 | [FEA-Solver](https://github.com/hahajin/fea-solver) | A modular, parallel FEM solver for 2D/3D static & dynamic analysis | C++ / OpenMP / VTK |
 | [StructViz](https://github.com/hahajin/structviz) | Web-based post-processor for Abaqus/OpenSees results | React / Three.js / Python |
-| [CodeCheck-API](https://github.com/hahajin/codecheck-api) | RESTful service for automated steel/concrete design checks | Node.js / PostgreSQL / Docker |
+| [CodeCheck-API](https://github.com/hahajin/Fastapi) | RESTful service for automated steel/concrete design checks | Node.js / PostgreSQL / Docker |
 | [MeshLab-Lite](https://github.com/hahajin/meshlab-lite) | Lightweight 3D mesh viewer and editor in the browser | WebGL / TypeScript |
 
 ### 🌍 Connect With Me

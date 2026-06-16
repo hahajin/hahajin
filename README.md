@@ -2,13 +2,13 @@
 <h3 align="center">Structural Engineer | FEA Programmer | Full‑Stack Developer</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=hahajin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hahajin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on high‑performance FEA solvers and digital twin platforms for civil structures
-- 🌱 I’m deepening my knowledge in GPU‑accelerated computing (CUDA) and cloud‑native FEA
-- 👯 I’m looking to collaborate on open‑source structural analysis tools and engineering web apps
+- 🔭 I’m currently working on high-performance FEA solvers and digital twin platforms for civil structures
+- 🌱 I’m deepening my knowledge in GPU-accelerated computing (CUDA) and cloud-native FEA
+- 👯 I’m looking to collaborate on open-source structural analysis tools and engineering web apps
 - 💬 Ask me about Finite Element Method, Abaqus/OpenSees scripting, React + Node.js, and DevOps for engineering software
 - 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: I debug mesh errors by day and JavaScript promises by night – both require infinite patience!
@@ -26,10 +26,10 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| [FEA‑Solver](https://github.com/hahajin/fea-solver) | A modular, parallel FEM solver for 2D/3D static & dynamic analysis | C++ / OpenMP / VTK |
-| [StructViz](https://github.com/hahajin/structviz) | Web‑based post‑processor for Abaqus/OpenSees results | React / Three.js / Python |
-| [CodeCheck‑API](https://github.com/hahajin/codecheck-api) | RESTful service for automated steel/concrete design checks | Node.js / PostgreSQL / Docker |
-| [MeshLab‑Lite](https://github.com/hahajin/meshlab-lite) | Lightweight 3D mesh viewer and editor in the browser | WebGL / TypeScript |
+| [FEA-Solver](https://github.com/hahajin/fea-solver) | A modular, parallel FEM solver for 2D/3D static & dynamic analysis | C++ / OpenMP / VTK |
+| [StructViz](https://github.com/hahajin/structviz) | Web-based post-processor for Abaqus/OpenSees results | React / Three.js / Python |
+| [CodeCheck-API](https://github.com/hahajin/codecheck-api) | RESTful service for automated steel/concrete design checks | Node.js / PostgreSQL / Docker |
+| [MeshLab-Lite](https://github.com/hahajin/meshlab-lite) | Lightweight 3D mesh viewer and editor in the browser | WebGL / TypeScript |
 
 ### 🌍 Connect With Me
 <p align="left">
@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-<i>⚡ “Engineering is not only about calculations – it's about building the future, line by line.”</i>
+  <i>⚡ “Engineering is not only about calculations – it's about building the future, line by line.”</i>
 </p>
